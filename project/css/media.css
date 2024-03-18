@@ -1,0 +1,102 @@
+@media (max-width: 1750px) {
+
+  .events-cont__inf-list-item-pic {
+    width: 398px;
+    height: 250px;
+  }
+
+  .events-cont__inf-list-item {
+    width: 400px;
+  }
+
+  .events-cont__inf-list-item-cont {
+    padding: 0 34px !important;
+  }
+
+  .showroom-cont__inf {
+    flex-direction: column !important;
+    height: 262px;
+  }
+
+  .header-cont__middle-cont {
+    left: 360px !important;
+  }
+
+}
+
+@media (max-width: 1550px) {
+  .events-cont__inf-list-item-pic {
+    width: 290px;
+    height: 200px;
+  }
+
+  .events-cont__inf-list-item {
+    width: 290px;
+  }
+
+  .gallery-cont__inf-bottom-cont {
+    flex-direction: column !important;
+  }
+
+  .header-cont {
+    padding-top: 32px !important;
+  }
+
+  .header-cont {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  .hero-cont__inf {
+    padding-left: 50px !important;
+  }
+
+  .about-us-cont__inf {
+    padding-left: 50px !important;
+  }
+
+  .gallery-cont__inf {
+    padding-left: 50px !important;
+  }
+
+  .catalog-cont {
+    padding-left: 50px !important;
+  }
+
+  .events-cont__inf {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  .projects-cont__inf {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  .showroom-cont__inf {
+    padding-left: 50px !important;
+  }
+
+  .footer-cont__inf {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  .header-cont__middle-cont {}
+}
+
+@media (max-width: 1400px) {
+  .header-cont__middle-cont {
+    left: 47px !important;
+    top: 96px !important;
+  }
+
+  .header-cont {
+    padding-bottom: 83px!important;
+  }
+
+  .allery-cont__inf-bottom-right-cont-list-item-img{
+    width: 275px;
+    height: 275px;
+  }
+}
